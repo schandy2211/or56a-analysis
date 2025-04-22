@@ -1,0 +1,42 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    20:
+HEADER 0  - Pocket Score                      : -0.0152
+HEADER 1  - Drug Score                        : 0.0002
+HEADER 2  - Number of alpha spheres           :    18
+HEADER 3  - Mean alpha-sphere radius          : 4.0239
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.6921
+HEADER 5  - Mean B-factor of pocket residues  : 0.5914
+HEADER 6  - Hydrophobicity Score              : 4.3333
+HEADER 7  - Polarity Score                    :     5
+HEADER 8  - Amino Acid based volume Score     : 4.6667
+HEADER 9  - Pocket volume (Monte Carlo)       : 341.0542
+HEADER 10 - Pocket volume (convex hull)       : 18.1102
+HEADER 11 - Charge Score                      :     2
+HEADER 12 - Local hydrophobic density Score   : 5.0000
+HEADER 13 - Number of apolar alpha sphere     :     6
+HEADER 14 - Proportion of apolar alpha sphere : 0.3333
+ATOM    327   CB ARG A  39      21.984 -14.594  12.570  0.00  0.00           C 0
+ATOM    324    N ARG A  39      19.969 -15.547  13.633  0.64  3.28           N 0
+ATOM    319   CB ASN A  38      20.047 -18.859  14.305  0.00  0.00           C 0
+ATOM    329   CG ARG A  39      22.984 -15.562  13.180  0.00  0.00           C 0
+ATOM    353   CB LEU A  42      22.797 -12.047   9.438  0.00  0.00           C 0
+ATOM    328    O ARG A  39      19.938 -12.992  11.648  0.56  1.07           O 0
+ATOM    389  NH2 ARG A  46      22.000 -15.086   5.152  0.00  0.00           N 0
+ATOM    356  CD1 LEU A  42      24.469 -13.805  10.086  0.00  0.00           C 0
+ATOM    388  NH1 ARG A  46      19.797 -14.578   4.781  0.00  0.00           N 0
+ATOM    363   OG SER A  43      17.734 -12.523   8.758  0.35  6.43           O 0
+ATOM    390   CZ ARG A  46      21.062 -14.188   4.875  0.00  0.00           C 0
+ATOM    310   CB GLN A  37      15.680 -15.523  12.672  0.00  0.00           C 0
+ATOM    312   CG GLN A  37      14.758 -15.828  11.500  0.00  0.00           C 0
+ATOM    316    N ASN A  38      18.016 -17.484  14.211  0.00  0.00           N 0
+ATOM    330   CD ARG A  39      24.219 -15.719  12.305  0.00  0.00           C 0
+ATOM    331   NE ARG A  39      25.172 -16.656  12.883  0.61  4.37           N 0
+ATOM    332  NH1 ARG A  39      26.672 -16.531  11.125  0.00  0.00           N 0
+ATOM    315  OE1 GLN A  37      15.391 -13.680  10.633  0.00  0.00           O 0
+ATOM    313   CD GLN A  37      14.750 -14.727  10.453  0.00  0.00           C 0
+ATOM    314  NE2 GLN A  37      14.031 -14.945   9.359  0.57  2.19           N 0
+TER
+END

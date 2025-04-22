@@ -1,0 +1,37 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    22:
+HEADER 0  - Pocket Score                      : -0.0305
+HEADER 1  - Drug Score                        : 0.0060
+HEADER 2  - Number of alpha spheres           :    20
+HEADER 3  - Mean alpha-sphere radius          : 3.8448
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.5599
+HEADER 5  - Mean B-factor of pocket residues  : 0.9074
+HEADER 6  - Hydrophobicity Score              : 72.3333
+HEADER 7  - Polarity Score                    :     2
+HEADER 8  - Amino Acid based volume Score     : 5.3333
+HEADER 9  - Pocket volume (Monte Carlo)       : 162.8451
+HEADER 10 - Pocket volume (convex hull)       : 1.6017
+HEADER 11 - Charge Score                      :     0
+HEADER 12 - Local hydrophobic density Score   : 19.0000
+HEADER 13 - Number of apolar alpha sphere     :    20
+HEADER 14 - Proportion of apolar alpha sphere : 1.0000
+ATOM   2969  CE2 TRP A 363     -33.312   8.094  14.562  0.00  0.00           C 0
+ATOM   3104   SD MET A 378     -27.000   9.281  13.602  0.00  0.00           S 0
+ATOM   2973  CZ2 TRP A 363     -34.250   9.125  14.352  0.00  0.00           C 0
+ATOM   3078  CG2 VAL A 375     -28.172  12.516  17.906  0.00  0.00           C 0
+ATOM   2974  CZ3 TRP A 363     -34.188   9.539  16.734  0.00  0.00           C 0
+ATOM   2972  CH2 TRP A 363     -34.688   9.836  15.445  0.00  0.00           C 0
+ATOM   2941  CD2 PHE A 359     -30.766   8.234  10.570  0.00  0.00           C 0
+ATOM   2971  NE1 TRP A 363     -32.750   7.234  13.672  0.78  1.09           N 0
+ATOM   3105   CE MET A 378     -27.672   7.648  14.016  0.00  0.00           C 0
+ATOM   3071  CD2 LEU A 374     -28.234   6.266  17.156  0.00  0.00           C 0
+ATOM   2968  CD2 TRP A 363     -32.844   7.777  15.852  0.00  0.00           C 0
+ATOM   2966   CG TRP A 363     -31.922   6.684  15.695  0.00  0.00           C 0
+ATOM   2943  CE2 PHE A 359     -32.031   8.734  10.297  0.00  0.00           C 0
+ATOM   2970  CE3 TRP A 363     -33.281   8.516  16.953  0.00  0.00           C 0
+ATOM   3042    O GLN A 371     -28.391  10.289  20.156  0.72  2.14           O 0
+TER
+END

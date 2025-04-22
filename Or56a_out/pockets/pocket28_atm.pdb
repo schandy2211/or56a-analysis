@@ -1,0 +1,35 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    28:
+HEADER 0  - Pocket Score                      : -0.0532
+HEADER 1  - Drug Score                        : 0.0028
+HEADER 2  - Number of alpha spheres           :    16
+HEADER 3  - Mean alpha-sphere radius          : 4.1030
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.5163
+HEADER 5  - Mean B-factor of pocket residues  : 0.4204
+HEADER 6  - Hydrophobicity Score              : 86.0000
+HEADER 7  - Polarity Score                    :     0
+HEADER 8  - Amino Acid based volume Score     : 4.6667
+HEADER 9  - Pocket volume (Monte Carlo)       : 188.2354
+HEADER 10 - Pocket volume (convex hull)       : 3.4586
+HEADER 11 - Charge Score                      :     0
+HEADER 12 - Local hydrophobic density Score   : 15.0000
+HEADER 13 - Number of apolar alpha sphere     :    16
+HEADER 14 - Proportion of apolar alpha sphere : 1.0000
+ATOM    492  CD2 LEU A  60      26.469   2.574 -12.234  0.00  0.00           C 0
+ATOM    491  CD1 LEU A  60      25.438   0.441 -11.398  0.00  0.00           C 0
+ATOM   1559  CD2 LEU A 193      30.609   3.141 -12.680  0.00  0.00           C 0
+ATOM    466  CD1 LEU A  56      26.047   1.981  -7.039  0.00  0.00           C 0
+ATOM   1558  CD1 LEU A 193      28.562   2.021 -13.594  0.00  0.00           C 0
+ATOM   1534  CD1 PHE A 190      26.016  -2.855 -12.266  0.00  0.00           C 0
+ATOM    467  CD2 LEU A  56      26.141  -0.473  -6.523  0.00  0.00           C 0
+ATOM   1565   SG CYS A 194      33.312  -2.447 -11.148  0.00  0.00           S 0
+ATOM   1536  CE1 PHE A 190      25.031  -2.523 -11.336  0.00  0.00           C 0
+ATOM   1555   CB LEU A 193      30.766   0.831 -13.648  0.00  0.00           C 0
+ATOM   1605  CG1 VAL A 199      29.984  -5.461 -11.297  0.00  0.00           C 0
+ATOM   1563   CB CYS A 194      33.062  -3.439 -12.633  0.00  0.00           C 0
+ATOM   1532    O PHE A 190      29.688  -3.031 -15.266  0.00  0.00           O 0
+TER
+END
